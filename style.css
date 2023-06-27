@@ -14,3 +14,12 @@
     display: block;
     float: none;
 }
+
+.block {
+    width: 135 px;
+    padding:5px 20px;
+    margin-left: 20px;
+    display: inline-block;
+    float: left;
+}
+    
